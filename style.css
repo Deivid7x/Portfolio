@@ -128,6 +128,18 @@
     max-width: 40px;
   }
 
+  #projects {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #Skills {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   
   @media (min-width: 768px) {
     .project {
