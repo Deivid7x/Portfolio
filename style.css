@@ -63,7 +63,7 @@
   #Skills {
     padding: 40px 20px;
     max-height: 200px;
-    
+    text-align: center;
   }
 
   #Skills ul {
@@ -73,6 +73,7 @@
 
   #Skills li {
     list-style-type: disc;
+    text-align: left;
   }
 
   #Skills h2 {
@@ -181,6 +182,10 @@
     text-align: center;
     color: #fff;
     border-radius: 30px 30px 0 0;
+  }
+
+  #contact a{
+    color: #fff;
   }
 
   
