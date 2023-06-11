@@ -188,6 +188,26 @@
     color: #fff;
   }
 
+
+  #certificates {
+    padding: 40px 20px;
+    text-align: center;
+  }
+
+  #certificates ul {
+    column-gap: 20px;
+  }
+
+  #certificates li {
+    list-style-type: disc;
+    text-align: left;
+  }
+
+  #certificates h2 {
+    display: inline;
+    width: 100%;
+  }
+
   
 
   
