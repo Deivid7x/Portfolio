@@ -214,7 +214,10 @@
     max-width: 30px;
   }
 
-  
+  /* Deixa o icone do github maior quando o mouse passa por cima */
+  .project-details a:hover img {
+    transform: scale(1.2);
+  }
 
   
   
