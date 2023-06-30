@@ -117,9 +117,17 @@
     
   }
 
+  .project.left:hover {
+    transform: scale(1.04);
+  }
+
   .project.right {
     padding-left: 15px;
     padding-right: 15px;
+  }
+
+  .project.right:hover {
+    transform: scale(1.04);
   }
 
   #projects > .project.left {
@@ -155,9 +163,17 @@
       flex-direction: row;
     
     }
+
+    .project.left:hover {
+      transform: scale(1.05);
+    }
   
     .project.right {
       flex-direction: row-reverse;
+    }
+
+    .project.right:hover {
+      transform: scale(1.05);
     }
   
     .project img {
